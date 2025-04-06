@@ -74,7 +74,7 @@ Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - complaint_hash
 
 ## 🔒 No API Keys Required
-All analysis is performed locally using NLP libraries — no OpenAI or paid APIs involved.
+All analysis is performed locally using NLP libraries — no paid APIs of LLM models involved.
 
 ---
 
