@@ -1,4 +1,4 @@
-# 🗣️ Citizen Complaint Chatbot with NLP (No OpenAI Key)
+# 🗣️ Citizen Complaint Chatbot with NLP
 
 A fully-featured FastAPI-based chatbot system to handle citizen complaints and service requests. This project leverages powerful NLP tools **without using OpenAI APIs**, ensuring a cost-effective and accessible solution.
 
